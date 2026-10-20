@@ -1,0 +1,248 @@
+{
+  "users": {
+    "asha": {
+      "nickname": "Asha",
+      "salt": "150f9b4dcfd9db5e2fa797b08f8a3d02",
+      "pinHash": "c47befd0dd173929a3b317b4f7c44443b347e88d33e9a322d11f63b2c7b4fbef",
+      "totalPoints": 11,
+      "streak": 1,
+      "lastAnswered": "2026-10-20",
+      "scoreAt": "2026-10-20T09:51:11.128Z",
+      "createdAt": "2026-10-20T09:50:33.575Z"
+    }
+  },
+  "sessions": {
+    "003aa702b36d59f538e076f3d5e22267b307bca0f6b690b7": "asha"
+  },
+  "attempts": [
+    {
+      "user": "asha",
+      "date": "2026-10-20",
+      "choice": 1,
+      "correct": true,
+      "points": 11
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "tip": "A real bank never asks for your PIN on a call.",
+      "question": "Someone calls and asks for your PIN. What do you do?",
+      "options": [
+        "Tell them the PIN",
+        "Hang up",
+        "Ask them to call later"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "tip": "Never share an OTP with anyone.",
+      "question": "A stranger asks for the OTP on your phone. What do you do?",
+      "options": [
+        "Send the OTP",
+        "Do not share it",
+        "Share half of it"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "tip": "Real prizes do not ask you to pay first.",
+      "question": "An SMS says you won a prize, but you must pay a fee. What do you do?",
+      "options": [
+        "Pay the fee",
+        "Ignore the SMS",
+        "Send it to friends"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "tip": "Do not click links in strange messages.",
+      "question": "You get a link from an unknown number. What do you do?",
+      "options": [
+        "Click it",
+        "Delete the message",
+        "Reply with your name"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "tip": "Save a little money each month, even a small amount.",
+      "question": "Which habit helps you save money?",
+      "options": [
+        "Save a little every month",
+        "Spend it all at once",
+        "Wait until you are rich"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "tip": "A UPI PIN is only for sending money, not for receiving.",
+      "question": "You must enter your UPI PIN to receive money. Is this right?",
+      "options": [
+        "Yes, it is normal",
+        "No, it is a scam",
+        "Only on Sundays"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "tip": "A loan with no checks and a very fast offer can be a trap.",
+      "question": "An app offers a loan with no papers in 1 minute. What do you do?",
+      "options": [
+        "Take it at once",
+        "Check if it is a real company",
+        "Give your ID to a friend"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "tip": "Keep your phone locked with a PIN or fingerprint.",
+      "question": "Why lock your phone?",
+      "options": [
+        "To keep your money and data safe",
+        "To make it heavier",
+        "No reason"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "tip": "Banks do not ask you to install a strange app to fix your account.",
+      "question": "A caller asks you to install a screen-share app. What do you do?",
+      "options": [
+        "Install it",
+        "Refuse and hang up",
+        "Install it, then think"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "tip": "Check the amount before you press pay.",
+      "question": "Before you send money, what should you check?",
+      "options": [
+        "The name and the amount",
+        "The colour of the app",
+        "Nothing"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 11,
+      "tip": "Use different PINs for different things.",
+      "question": "Is it safe to use the same PIN everywhere?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for banks"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "tip": "Free offers that need your card number are risky.",
+      "question": "A website gives a free gift but asks for your card number. What do you do?",
+      "options": [
+        "Enter the number",
+        "Leave the website",
+        "Enter it on a friend's phone"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "tip": "Write down what you spend to see where money goes.",
+      "question": "How can you learn where your money goes?",
+      "options": [
+        "Write down what you spend",
+        "Guess",
+        "Ask a neighbour"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 14,
+      "tip": "Do not give your Aadhaar or bank details to unknown people.",
+      "question": "A stranger on a call asks for your bank details. What do you do?",
+      "options": [
+        "Give them",
+        "Say no and end the call",
+        "Give them next week"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "tip": "Scammers make you feel you must act fast.",
+      "question": "A message says 'Act in 10 minutes or lose your money!' What do you do?",
+      "options": [
+        "Hurry and obey",
+        "Stop and check first",
+        "Send it to ten friends"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "tip": "Only download apps from the official app store.",
+      "question": "Where should you download apps from?",
+      "options": [
+        "The official app store",
+        "Any link in a message",
+        "A stranger's phone"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 17,
+      "tip": "If you are scammed, tell your bank at once.",
+      "question": "You think you sent money to a scammer. What do you do first?",
+      "options": [
+        "Tell your bank now",
+        "Wait a week",
+        "Do nothing"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 18,
+      "tip": "A job that asks you to pay a fee to start is often a scam.",
+      "question": "A job offer asks you to pay a fee first. What do you do?",
+      "options": [
+        "Pay the fee",
+        "Be careful and do not pay",
+        "Pay half"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "tip": "Public Wi-Fi is not safe for banking.",
+      "question": "Where is it safest to use a banking app?",
+      "options": [
+        "Your own mobile data",
+        "Free public Wi-Fi",
+        "A friend's Wi-Fi"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 20,
+      "tip": "Ask someone you trust before you invest.",
+      "question": "A friend says 'Double your money in a week!' What do you do?",
+      "options": [
+        "Invest all your money",
+        "Be careful, it is likely a scam",
+        "Borrow money to invest"
+      ],
+      "answer": 1
+    }
+  ]
+}
